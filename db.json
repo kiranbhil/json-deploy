@@ -1,20 +1,91 @@
 {
-    "posts": [
-        {
-            "id": 1,
-            "title": "json-server",
-            "author": "typicode"
-        }
-    ],
-    "comments": [
-        {
-            "id": 1,
-            "body": "some comment",
-            "postId": 1
-        }
-    ],
-    "profile": {
-        "name": "typicode"
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "jobs": [
+    {
+      "company": "Ellette",
+      "postedAt": "2021-03-30",
+      "city": "Gangtok",
+      "location": "American Samoa",
+      "role": "Frontend",
+      "level": "Junior",
+      "contract": "Full Time",
+      "position": " Backend Developer",
+      "language": "Java"
     },
-    "tasks": []
+    {
+      "company": "Jinny",
+      "postedAt": "2021-09-09",
+      "city": "Ludhiana",
+      "location": "Belgium",
+      "role": "FullStack",
+      "level": "Junior",
+      "contract": "Full Time",
+      "position": "Junior Frontend Developer",
+      "language": "Java"
+    },
+    {
+      "company": "Masai",
+      "postedAt": "2023-02-27",
+      "city": "Bangluru",
+      "location": "Bangluru",
+      "role": "Frontend",
+      "level": "Junior",
+      "contract": "ft",
+      "position": "jbd",
+      "language": "Javascript",
+      "id": 1
+    },
+    {
+      "company": "Abc",
+      "postedAt": "2023-03-02",
+      "city": "Bhavnagar",
+      "location": "GUJ",
+      "role": "Backend",
+      "level": "Junior",
+      "contract": "ft",
+      "position": "jbd",
+      "language": "Java",
+      "id": 2
+    },
+    {
+      "company": "Masai",
+      "postedAt": "2023-02-21",
+      "city": "mumbai",
+      "location": "GUJ",
+      "role": "FullStack",
+      "level": "Junior",
+      "contract": "Full Time",
+      "position": "FSD",
+      "language": "Javascript",
+      "id": 3
+    },
+    {
+      "company": "Masai",
+      "postedAt": "2023-02-21",
+      "city": "Bhavnagar",
+      "location": "GUJ",
+      "role": "Frontend",
+      "level": "Junior",
+      "contract": "Full Time",
+      "position": "Backend Developer",
+      "language": "Javascript",
+      "id": 4
+    }
+  ]
 }
